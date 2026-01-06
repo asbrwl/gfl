@@ -1,0 +1,7 @@
+{
+  "name": "Chronicle: Historical Long-Form Template Engine",
+  "description": "A high-end historical blog template and engine featuring Gemini-powered research grounding, image reconstruction, and scholarly typography.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
